@@ -1,0 +1,5 @@
+nivel;data_atual;status;mensagem;nome_video
+INFO;27_09_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;27_09_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;27_09_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;27_09_2023;OK;Preparar ambiente finalizado com sucesso;-

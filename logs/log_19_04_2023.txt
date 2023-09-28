@@ -1,0 +1,16 @@
+nivel;data_Atual;status;mensagem;nome_video
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
+INFO;19_04_2023;OK;Preparar ambiente finalizado com sucesso;-
